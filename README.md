@@ -1,5 +1,4 @@
-# Restful API Server Sample
-This it basic sample for RestAPI. It is materialized by a senario 'posting/listing/editting/deleting at bulletin board' contents
+
 
 # Swagger API Document is included
 http://localhost:8080/swagger-ui/index.html#/
